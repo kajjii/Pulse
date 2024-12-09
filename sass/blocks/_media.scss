@@ -1,0 +1,223 @@
+@media (max-width: 992px) {
+    .promo {
+        padding: 35px;
+    }
+    .consultation {
+        padding: 80px 50px;
+    }
+    .advantages__item {
+        font-size: 16px;
+    }
+    .advantages__descr {
+        width: 230px;
+        margin-top: 10px;
+        font-size: 13px;
+    }
+    .slick-slide img {
+        width: 600px;
+        margin: 0 auto;
+    }
+    .carousel {
+        padding: 50px 0;
+    }
+    .catalog__tabs {
+        margin-top: 40px;
+    }
+    .catalog__content {
+        padding: 0 60px;
+    }
+    .reviews__client {
+        margin-top: 40px;
+    }
+    .reviews__descr {
+        width: 500px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .footer {
+        height: auto;
+    }
+    .footer iframe {
+        height: 500px;
+    }
+    .footer__info {
+        width: 350px;
+        height: 260px;
+        padding: 35px 25px 25px 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    .promo {
+        padding: 15px;
+    }
+    .header__official {
+        display: none;
+    }
+    .header__phone {
+        margin-bottom: 5px;
+        font-size: 14px;
+    }
+    .promo__header {
+        font-size: 38px;
+    }
+    .promo__subheader {
+        font-size: 23px;
+        line-height: 30px;
+    }
+    .promo__icons {
+        margin-top: 30px;
+        width: 355px;
+    }
+    .button_main {
+        margin-top: 45px;
+    }
+    .advantages__wrapper {
+        flex-direction: column;
+    }
+    .advantages__item {
+        margin-top: 40px;
+    }
+    .consultation {
+        padding: 60px 50px;
+        min-height: 620px;
+    }
+    .title_left {
+        font-size: 24px;
+        text-align: left;
+    }
+    .consultation__descr {
+        font-size: 17px;
+    }
+    .carousel {
+        display: none;
+    }
+    .catalog {
+        padding: 40px;
+    }
+    .catalog__tab {
+        width: 130px;
+        height: 55px;
+        font-size: 13px;
+        line-height: 50px;
+    }
+    .catalog__content {
+        margin-top: 45px;
+    }
+    .reviews__client {
+        flex-direction: column;
+    }
+    .reviews__wrapper {
+        margin: 0 auto;
+    }
+    .reviews__descr {
+        width: 430px;
+    }
+    .reviews__client img {
+        margin: 20px auto;
+        height: 200px;
+        width: 200px;
+    }
+    .footer iframe {
+        height: 400px;
+    }
+    .footer__info {
+        width: 250px;
+        height: 160px;
+        padding: 20px;
+    }
+    .footer__addr {
+        margin-bottom: 13px;
+        font-size: 18px;
+    }
+    .footer__phone {
+       display: none;
+    }
+    .footer__social-item {
+        margin: 10px;
+        width: 60px;
+        height: 50px;
+        border-radius: 50%;
+    }
+}
+
+@media (max-width: 480px) {
+    .header__logo img {
+        width: 80%;
+    }
+    .header__phone {
+        display: none;
+    }
+    .promo {
+        min-height: 460px;
+        padding: 17px;
+    }
+    .promo__header {
+        font-size: 30px;
+    }
+    .promo__subheader {
+        margin-top: 0;
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .promo__icons {
+        display: none;
+    }
+    .button_main {
+        width: 285px;
+    }
+    .title {
+        font-size: 23px;
+    }
+    .consultation {
+        display: none;
+    }
+    .advantages {
+        min-height: 470px;
+        padding: 50px 0;
+    }
+    .catalog__content {
+        margin-top: 30px;
+        padding: 0px;
+    }
+    .catalog__tabs {
+        margin-top: 20px;
+    }
+    .catalog__tab {
+        height: 38px;
+        font-size: 7px;
+        line-height: 35px;
+    }
+    .catalog-item {
+        padding: 20px 15px;
+    }
+    .catalog-item hr {
+        margin-top: 0px;
+    }
+    .wow {
+        padding-left: 5px;
+    }
+    .reviews__client {
+        margin-top: 25px;
+    }
+    .reviews__client img {
+        margin: 0px auto 15px;
+        height: 150px;
+        width: 150px;
+    }
+    .reviews__descr {
+        width: 280px;
+        font-size: 12px;
+    }
+    .modal {
+        width: 300px;
+        padding: 20px;
+    }
+    .feed-form {
+        width: 255px;
+    }
+    .modal__close {
+        top: 5px;
+        right: 5px;
+    }
+}
